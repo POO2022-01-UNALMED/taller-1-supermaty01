@@ -1,0 +1,1 @@
+Al añadir un archivo, si reconoce la carpeta y por ende los cambios por lo cual permite hacer el commit.
