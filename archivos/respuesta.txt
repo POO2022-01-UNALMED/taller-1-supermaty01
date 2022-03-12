@@ -1,0 +1,1 @@
+Git no detecta los directorios vacios como cambios por lo tanto no se pudo hacer el commit.
