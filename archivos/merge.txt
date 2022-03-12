@@ -1,3 +1,7 @@
+Al añadir un archivo, si reconoce la carpeta y por ende los cambios por lo cual permite hacer el commit.
+
 Mateo Álvarez Lebrum
 19 años
 Aspiro a conocer un poco más sobre la POO pero principalmente aplicarla a Java ya que no manejo este lenguaje
+
+Hay que tener cuidado ya que si modificamos la misma linea o hacemos cambios que se puedan superponer, genera conflictos los cuales tenemos que revisar y corregir antes del merge 
